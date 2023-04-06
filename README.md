@@ -11,3 +11,4 @@ sıfıra ulaşıldığında ise 0 a ulaşmak için kaç kere işlem yapıldığ�
 Örneğin, num1 = 12 ve num2 = 4 ise num1'den num2'yi çıkarıcaz, böylece num1 = 8 ve num2 = 4 elde edeceğiz. tekrar yapıldığında num1 = 4 num2 = 4 elde ederiz.
 kod böyle 0 a ulaşana kadar devam eder ve işlem sayısını yazdırır.
 
+kodumun çıktısında çıkarma işlemleri sırasıyla yazıdığı için hesaplamanın doğru olup olmadığını ggörebilirsiniz.
